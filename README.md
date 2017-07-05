@@ -3,3 +3,6 @@
 
 2010年の夏～秋ごろに作られたものです。
 
+参考にしたサイト
+http://www.cs.columbia.edu/~sedwards/apple2fpga/
+
