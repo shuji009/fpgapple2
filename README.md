@@ -19,3 +19,11 @@ SDカードは、SPIでアクセスしているのですが、SDHCでは動作�
 実験では、2003年頃に使用していたPanasonicの128MBのSDカードを使用しました。
 また、SDカードのイメージは、必ずしも動作を保証するものではありません。
 書き込みには、Win32 Disk Imager等が必要です。
+
+
+https://youtu.be/eoObZ-kjJ7w
+
+
+https://youtu.be/StnPy8jxQTU
+
+
